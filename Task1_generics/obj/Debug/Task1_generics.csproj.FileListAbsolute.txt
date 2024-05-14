@@ -1,0 +1,20 @@
+D:\c#\Task1_generics\Task1_generics\bin\Debug\Task1_generics.exe.config
+D:\c#\Task1_generics\Task1_generics\bin\Debug\Task1_generics.exe
+D:\c#\Task1_generics\Task1_generics\bin\Debug\Task1_generics.pdb
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.AssemblyReference.cache
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.Form1.resources
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.Properties.Resources.resources
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.GenerateResource.cache
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.CoreCompileInputs.cache
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.exe
+D:\c#\Task1_generics\Task1_generics\obj\Debug\Task1_generics.pdb
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\bin\Debug\Task1_generics.exe.config
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\bin\Debug\Task1_generics.exe
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\bin\Debug\Task1_generics.pdb
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.AssemblyReference.cache
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.Form1.resources
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.Properties.Resources.resources
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.GenerateResource.cache
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.csproj.CoreCompileInputs.cache
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.exe
+F:\Лабы по C# 4-й семестр\Task1_generics\Task1_generics\obj\Debug\Task1_generics.pdb
